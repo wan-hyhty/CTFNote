@@ -36,4 +36,3 @@ libc.srand(libc.time(0))
 `https://gtfobins.github.io/`
 
 ## [shellcode](https://docs.pwntools.com/en/stable/shellcraft.html)
-
